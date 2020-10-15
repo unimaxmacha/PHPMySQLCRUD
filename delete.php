@@ -1,4 +1,5 @@
 <?php
+// Test 2020
 // Process delete operation after confirmation
 if(isset($_POST["id"]) && !empty($_POST["id"])){
     // Include config file
